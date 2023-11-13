@@ -1,9 +1,9 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > to 
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > make directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
