@@ -1,18 +1,21 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > to 
+    > to make collaboration and pivoting to earlier versions easier
 
 02. In the terminal, what is the command `mkdir` used for?
     > make directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > :className :hover :enabled :disabled
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity is the algorithm used by browsers to determine the CSS declaration that is the most relevant to an element
+
+
+    some really weird element selectors
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > rewriting something multiple times
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,19 +25,19 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > selector property value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > less frrustration, cleanliness
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > to make designing easier to handle
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > depends on the type the lower and mid seem helpful for getting a projevt off the ground but the high-fidelity seem like a waste
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > to make layouts more flexible
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > width and height
