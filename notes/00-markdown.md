@@ -1,7 +1,3 @@
-# Markdown Cheatsheet
-
-# **Headings**
-
 # Heading 1
 
 ## Heading 2
@@ -14,61 +10,76 @@
 
 ###### Heading 6
 
-# **Formatting**
+## **Formatting**
 
-_Italic_
+ _Italic_
 
-*Italic*
+ *Italic*
 
-__Bold__
+ **Bold**
 
-**Bold**
+ ~~Strikethrough~~
 
-~~Strikethrough~~
+ <mark>Highlighted </mark>
 
-# **Lists**
-* Unordered 
-  + Nested
-  + List
+ x<sup>2</sup>
+
+ H<sub>2</sub>O
+
+ >Block
+ >
+ >>Quotes
+ >>
+ >>>Unlimited Nesting
+
+ ---
+
+^Line through^
+
+## **Lists**
+
+* Unordered
+  * Nested
+  * List
 
 1. Ordered list
 2. Nested
    1. Ordered
-   2. List
+   1. List
+   1.
 
 * [ ] Unchecked task
 * [x] Checked task
 * [ ] Nested
-  + [x] Checked
-  + [ ] Task
+  * [x] Checked
+  * [ ] Task
   
+## **Tables**
 
-# **Tables**
-
-#### Regular
+### Regular
 
 | Tables | Are | Great |
 | ------ | --- | ----- |
 | •      | •   | •     |
 | •      | •   | •     |
 
-#### Aligned
+### Aligned
 
 | Left | Center | Right |
 | :--- | :----: | ----: |
-| •    | •      | •     |
-| •    | •      | •     |
+| a    | b      | c     |
 
-# **Blockquotes**
+| Center | Center2 |
+| :----: | :-----: |
+| a      | b       |
 
-> **💡 Quotation:** call special attention with a blockquote
-
-# **Code Blocks**
+## **Code Blocks**
 
 `Inline code`
 
-*Fenced code block*
-```javascript{3,7}
+## *Fenced code block*
+
+```js
 function democode(){
     // NOTE this is a comment
     let message = 'this message is a string'
@@ -78,7 +89,9 @@ function democode(){
 const executed = democode()
 ```
 
-# **Links and Images**
+## **Links and Images**
+
+<https://google.com>
 
 a line break uses three hyphens hyperlinks can be inlined [article link](https://codeworksacademy.com/fs-student-guide/)
 
